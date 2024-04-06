@@ -1,0 +1,15 @@
+Activity
+=============
+Question 1: 
+Similarities: Both companies stress the importance of communication and the responsibility of reviewers and the need to be thorough in order to maintain high quality of code
+Differences: One difference is the emoji code that microsoft uses to clarify feedback intent and also yelp has guidelines for the size and scope of the review but microsoft does not
+
+Question 2: Good review
+https://codereview.stackexchange.com/questions/291413/refactor-to-get-one-more-layer-of-abstraction-for-less-repeated-code
+What makes this code review good was the depth of the question asked and the thoroughness of the response. It is clear that both parties were seeking to explain in a concise manner both the problem and the solution
+
+Question 3: Bad review
+https://codereview.stackexchange.com/questions/291451/calling-a-method-of-class-a-from-class-b-and-vice-versa
+What makes this code review bad is that it did not provide a concrete example and code that would be useful for others to answer the question and was flagged by moderators as such.
+
+
